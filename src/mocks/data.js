@@ -5,6 +5,7 @@ export const data = [
     answers: ["choice 1", "choice 2", "choice 3", "choice 4"],
     correctIndex: 0,
   },
+  
   {
     id: 2,
     prompt: "lorem testum 2",
