@@ -9,8 +9,6 @@ function QuestionItem({ question, deleted, handleChange }) {
     </option>
   ));
 
-  
-
   return (
     <li>
       <h4>Question {id}</h4>
